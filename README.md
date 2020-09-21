@@ -63,7 +63,7 @@ $ npm run start:dev
 Para executar o aplicativo é necessário ter o ambiente de desenvolvimento configurado, para consultar a documentação basta acessar: [Development Enviroment](https://reactnative.dev/docs/environment-setup).<br/>
 Depois de configurar o ambiente de desenvolvimento bastar seguir esses passos:
 <br/>
-<b>Observação:<b> Alterar no arquivo .env.json o valor da propriedade "API_URL" para o endereço que o backend está sendo executado.
+<b>Observação:</b> Alterar no arquivo .env.json o valor da propriedade "API_URL" para o endereço que o backend está sendo executado.
 ```bash
 # Acesse a pasta do projeto no terminal/cmd
 $ cd inventory
